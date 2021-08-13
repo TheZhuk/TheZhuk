@@ -1,6 +1,5 @@
 #### Hi there 👋 
-#### My name is Evgeniy Zhuk. I'm a big fan of Data Science. Especially passionate about the Computer Vision.
-#### Senior student of 25th cohort of Yandex.Practicum Data Science curse, helping to achieve success for everyone who wants to develop in this promising field.
+#### My name is Evgeniy Zhuk. I'm a big fan of Data Science. Especially passionate about the Computer Vision. I'm senior student of 25th cohort of Yandex.Practicum Data Science curse, helping to achieve success for everyone who wants to develop in this promising field.
 
 - 🔭  I’m currently working on computer vision startup building object segmentation model for parts of cars.
 - 🌱  I’m currently learning how to implement machine learning models in real life projects.
